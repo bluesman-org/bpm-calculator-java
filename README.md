@@ -165,3 +165,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [Thymeleaf](https://www.thymeleaf.org/)
+
+<!-- reviewer pipeline smoke test 2026-10-09: this branch verifies the automated reviewer pipeline; it will be closed. -->
